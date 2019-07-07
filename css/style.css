@@ -1,0 +1,63 @@
+.container{
+	background-color: #34495E;
+}
+
+.nav{
+	background-color: #34495E;
+}
+
+.section{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.section h2{
+	color: black;
+	display:block;
+}
+
+.section img{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+
+.picture{
+	width: 100%
+}
+
+.article_spacing{
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+div.article_background{
+	background-color: #5D6D7E;
+	padding: 20px;
+}
+
+.article_p{
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+.progress[value] {
+    -webkit-appearance: none;
+    color: #0074d9;
+    border: 0;
+    -moz-appearance: none;
+    appearance: none;
+    width: 100%;
+}
+
+.card {
+    box-shadow: 0 2px 2px rgba(0, 0, 0, .05);
+    margin-bottom: : 100px;
+}
+
+
+.boxed {
+  box-shadow: 0 5px 5px rgba(0, 0, 0, .05);
+}
